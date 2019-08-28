@@ -5,3 +5,4 @@
 * The game ends when either the aliens collide with the ship or they reach the bottom of the screen.
 
 ### Screen-Shots
+![Image of game](alienInv.png)
